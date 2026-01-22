@@ -1,0 +1,33 @@
+body {
+    background-image: url(image/pexels-tomfisk-3280082.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#bg1 {
+    background-image: url(image/bg5.jpg);   
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 500px;
+    height: 500px;
+    border-radius: 250px;
+    margin-inline-start: -15px;
+    margin-top: 10px;
+}
+
+#bg2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+#bg3 {
+    background-color: rgba(11, 5, 34, 0.064); 
+}
+
+#img {
+    border-radius: 150px;
+}
